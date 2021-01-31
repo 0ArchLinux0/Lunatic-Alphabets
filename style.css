@@ -1,0 +1,33 @@
+textarea {
+	position: relative;
+	/*width: 80%;
+	height: 400px;*/
+	width: 0%;
+	height: 0px;
+	font-size: 50px;
+	color: red;
+	background-color: skyblue;
+	visibility: hidden;
+}
+
+/*#container{
+	position: absolute;
+	z-index: 1;
+	width: 80%;
+	height: 400px;
+	font-size: 50px;
+	border: 1px solid black;
+	color: red;
+	background-color: skyblue;
+}*/
+
+#container{
+	position: absolute;
+	z-index: 1;
+	width: 80%;
+	height: 400px;
+	font-size: 50px;
+	border: 1px solid black;
+	color: red;
+	/*background-color: skyblue;*/
+}
